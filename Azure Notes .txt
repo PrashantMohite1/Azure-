@@ -1,0 +1,2 @@
+blob storage - img , video , media files
+file share - for files doc, pdf 
