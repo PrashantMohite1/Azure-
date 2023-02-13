@@ -1,2 +1,2 @@
 blob storage - img , video , media files
-file share - for files doc, pdf 
+file share - it is like elastic file share
