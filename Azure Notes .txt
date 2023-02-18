@@ -1,2 +1,9 @@
 blob storage - img , video , media files
 file share - it is like elastic file share
+
+
+
+azure Load balancer 
+    - load balancer 
+    - application gateway - path based routing 
+    - global load balancers - azure traffic , azure front door 
